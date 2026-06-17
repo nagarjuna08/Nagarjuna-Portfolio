@@ -1,4 +1,4 @@
-# Personal Portfolio – Mohammed Nauman Mahbub
+# Personal Portfolio – Nagarjuna Kakunuri
 
 Welcome to my personal portfolio website!  
 This project showcases my journey as a **Computer Science Engineer**, highlighting my academic background, skills, achievements, work experience, and projects.  
